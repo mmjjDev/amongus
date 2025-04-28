@@ -15,6 +15,9 @@
     <Reference Include="BepInEx.Core">
       <HintPath>libs/BepInEx.Core.dll</HintPath>
     </Reference>
+    <Reference Include="BepInEx.Unity.Common">
+      <HintPath>libs/BepInEx.Unity.Common.dll</HintPath>
+    </Reference>
     <Reference Include="Hazel">
       <HintPath>libs/Hazel.dll</HintPath>
     </Reference>
