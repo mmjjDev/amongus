@@ -10,9 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BepInEx.Analyzers" Version="1.0.8" PrivateAssets="all" />
-    <PackageReference Include="BepInEx.Core" Version="5.4.21" />
-    <PackageReference Include="BepInEx.PluginInfoProps" Version="1.1.0" />
+    <PackageReference Include="BepInEx.BaseLib" Version="5.4.20" />
     <PackageReference Include="UnityEngine.Modules" Version="2021.3.14" IncludeAssets="compile" />
     <PackageReference Include="Discord.Net" Version="3.8.1" />
     <PackageReference Include="Discord.Net.WebSocket" Version="3.8.1" />
