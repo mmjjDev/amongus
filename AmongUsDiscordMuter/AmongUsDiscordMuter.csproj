@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="UnityEngine.Modules" Version="2021.3.14" IncludeAssets="compile" />
+    <PackageReference Include="UnityEngine.Modules" Version="2021.3.33" IncludeAssets="compile" />
     <PackageReference Include="Discord.Net" Version="3.8.1" />
     <PackageReference Include="Discord.Net.WebSocket" Version="3.8.1" />
   </ItemGroup>
@@ -18,6 +18,15 @@
   <ItemGroup>
     <Reference Include="BepInEx">
       <HintPath>lib\BepInEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Hazel">
+      <HintPath>lib\Hazel.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>lib\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>lib\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 

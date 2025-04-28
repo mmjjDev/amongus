@@ -54,7 +54,7 @@
             "UnityEngine.Modules": {
               "include": "Compile",
               "target": "Package",
-              "version": "[2021.3.14, )"
+              "version": "[2021.3.33, )"
             }
           },
           "imports": [

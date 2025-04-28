@@ -1073,7 +1073,7 @@
     ".NETStandard,Version=v2.1": [
       "Discord.Net >= 3.8.1",
       "Discord.Net.WebSocket >= 3.8.1",
-      "UnityEngine.Modules >= 2021.3.14"
+      "UnityEngine.Modules >= 2021.3.33"
     ]
   },
   "packageFolders": {
@@ -1129,7 +1129,7 @@
           "UnityEngine.Modules": {
             "include": "Compile",
             "target": "Package",
-            "version": "[2021.3.14, )"
+            "version": "[2021.3.33, )"
           }
         },
         "imports": [
@@ -1151,17 +1151,5 @@
         "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "AmongUsDiscordMuter depends on UnityEngine.Modules (>= 2021.3.14) but UnityEngine.Modules 2021.3.14 was not found. An approximate best match of UnityEngine.Modules 2021.3.33 was resolved.",
-      "libraryId": "UnityEngine.Modules",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }

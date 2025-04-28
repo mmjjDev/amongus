@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UR0NwtuhRj8=",
+  "dgSpecHash": "4sqC78ScJVk=",
   "success": true,
   "projectFilePath": "/workspaces/amongus/AmongUsDiscordMuter/AmongUsDiscordMuter.csproj",
   "expectedPackageFiles": [
@@ -29,16 +29,5 @@
     "/home/codespace/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/unityengine.modules/2021.3.33/unityengine.modules.2021.3.33.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "AmongUsDiscordMuter depends on UnityEngine.Modules (>= 2021.3.14) but UnityEngine.Modules 2021.3.14 was not found. An approximate best match of UnityEngine.Modules 2021.3.33 was resolved.",
-      "libraryId": "UnityEngine.Modules",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    }
-  ]
+  "logs": []
 }
