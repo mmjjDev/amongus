@@ -1,0 +1,4 @@
+/workspaces/amongus/AmongUsDiscordMuter/obj/Release/net6.0/AmongUsDiscordMuter.csproj.AssemblyReference.cache
+/workspaces/amongus/AmongUsDiscordMuter/obj/Release/net6.0/AmongUsDiscordMuter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/amongus/AmongUsDiscordMuter/obj/Release/net6.0/AmongUsDiscordMuter.csproj.CoreCompileInputs.cache
+/workspaces/amongus/AmongUsDiscordMuter/obj/Release/net6.0/AmongUsDiscordMuter.sourcelink.json

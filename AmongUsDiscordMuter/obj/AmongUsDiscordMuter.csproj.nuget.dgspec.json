@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "/workspaces/amongus/AmongUsDiscordMuter/AmongUsDiscordMuter.csproj": {}
+  },
+  "projects": {
+    "/workspaces/amongus/AmongUsDiscordMuter/AmongUsDiscordMuter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/workspaces/amongus/AmongUsDiscordMuter/AmongUsDiscordMuter.csproj",
+        "projectName": "AmongUsDiscordMuter",
+        "projectPath": "/workspaces/amongus/AmongUsDiscordMuter/AmongUsDiscordMuter.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/amongus/AmongUsDiscordMuter/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            },
+            "Discord.Net.WebSocket": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2021.3.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
