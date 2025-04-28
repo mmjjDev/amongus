@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "l0y8t2oxbMY=",
-  "success": false,
+  "dgSpecHash": "UR0NwtuhRj8=",
+  "success": true,
   "projectFilePath": "/workspaces/amongus/AmongUsDiscordMuter/AmongUsDiscordMuter.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/discord.net/3.8.1/discord.net.3.8.1.nupkg.sha512",
@@ -36,33 +36,6 @@
       "warningLevel": 1,
       "message": "AmongUsDiscordMuter depends on UnityEngine.Modules (>= 2021.3.14) but UnityEngine.Modules 2021.3.14 was not found. An approximate best match of UnityEngine.Modules 2021.3.33 was resolved.",
       "libraryId": "UnityEngine.Modules",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package BepInEx.Analyzers. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "BepInEx.Analyzers",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package BepInEx.Core. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "BepInEx.Core",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package BepInEx.PluginInfoProps. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "BepInEx.PluginInfoProps",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"
       ]

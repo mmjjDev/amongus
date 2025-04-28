@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Among Us Discord Muter")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+238820010aeb2228a8318f4ad5c99d61f64986f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d20d2bb49da70777ceb0918900b884931bf01b11")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmongUsDiscordMuter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmongUsDiscordMuter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

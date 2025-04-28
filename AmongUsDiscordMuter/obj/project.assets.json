@@ -1071,9 +1071,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "BepInEx.Analyzers >= 1.0.8",
-      "BepInEx.Core >= 5.4.21",
-      "BepInEx.PluginInfoProps >= 1.1.0",
       "Discord.Net >= 3.8.1",
       "Discord.Net.WebSocket >= 3.8.1",
       "UnityEngine.Modules >= 2021.3.14"
@@ -1121,19 +1118,6 @@
       "netstandard2.1": {
         "targetAlias": "netstandard2.1",
         "dependencies": {
-          "BepInEx.Analyzers": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[1.0.8, )"
-          },
-          "BepInEx.Core": {
-            "target": "Package",
-            "version": "[5.4.21, )"
-          },
-          "BepInEx.PluginInfoProps": {
-            "target": "Package",
-            "version": "[1.1.0, )"
-          },
           "Discord.Net": {
             "target": "Package",
             "version": "[3.8.1, )"
@@ -1175,33 +1159,6 @@
       "warningLevel": 1,
       "message": "AmongUsDiscordMuter depends on UnityEngine.Modules (>= 2021.3.14) but UnityEngine.Modules 2021.3.14 was not found. An approximate best match of UnityEngine.Modules 2021.3.33 was resolved.",
       "libraryId": "UnityEngine.Modules",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package BepInEx.Analyzers. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "BepInEx.Analyzers",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package BepInEx.Core. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "BepInEx.Core",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package BepInEx.PluginInfoProps. No packages exist with this id in source(s): nuget.org",
-      "libraryId": "BepInEx.PluginInfoProps",
       "targetGraphs": [
         ".NETStandard,Version=v2.1"
       ]
