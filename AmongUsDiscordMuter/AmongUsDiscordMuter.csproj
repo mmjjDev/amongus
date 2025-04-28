@@ -7,16 +7,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\..\Among Us\Among Us_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>libs/UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\Among Us\Among Us_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>libs/Assembly-CSharp.dll</HintPath>
     </Reference>
-    <Reference Include="BepInEx">
-      <HintPath>..\..\BepInEx\core\BepInEx.dll</HintPath>
+    <Reference Include="BepInEx.Core">
+      <HintPath>libs/BepInEx.Core.dll</HintPath>
     </Reference>
     <Reference Include="Hazel">
-      <HintPath>..\..\Among Us\Among Us_Data\Managed\Hazel.dll</HintPath>
+      <HintPath>libs/Hazel.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
